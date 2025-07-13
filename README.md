@@ -10,7 +10,6 @@
 ## 📘 About This Repo
 
 This repository contains hands-on notebooks I completed while preparing for the **Databricks Machine Learning Associate Certification**.  
-Most labs were from Databricks Academy’s guided exercises (fill-in-the-blank format), but all work was implemented manually and tested on the platform.
 
 ---
 
@@ -42,11 +41,9 @@ databricks-ml-cert-practice/
 │ └── deploying_models_with_jobs_and_the_databricks_cli.ipynb
 │
 ├── 04_mlops_workflows/
-│ ├── creating_and_managing_lakeflow_jobs_using_ui.ipynb
-│ └── lakeflow_jobs_ui_readme.md
-│
-└── lab_notes/
-└── mlops_readme.txt
+  ├── creating_and_managing_lakeflow_jobs_using_ui.ipynb
+  └── lakeflow_jobs_ui_readme.md
+
 
 yaml
 Copy
