@@ -62,7 +62,7 @@ databricks-ml-cert-practice/
 
 **Devesh Rai**  
 - 📧 [deveshrai162@gmail.com](mailto:deveshrai162@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/deveshrai162)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/devesh-rai-544437230/)  
 - 👨‍🎓 B.E. Computer Engineering | TCET (2021–2025)
 
 ---
