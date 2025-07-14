@@ -3,7 +3,7 @@
 [![Certification](https://img.shields.io/badge/Certified-Databricks%20ML%20Associate-brightgreen?style=flat&logo=databricks)](https://credentials.databricks.com/)  
 ✅ Officially certified in **Databricks Machine Learning Associate**  
 📅 Passed: **July 2025**  
-🔗 [LinkedIn Credential / Post](https://www.linkedin.com/in/devesh-rai-544437230/)
+🔗 [LinkedIn Credential / Post](https://www.linkedin.com/feed/update/urn:li:activity:7350364618994741249/)
 
 ---
 
