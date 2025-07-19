@@ -2,6 +2,10 @@
 
 [![Certification](https://img.shields.io/badge/Certified-Databricks%20ML%20Associate-brightgreen?style=flat&logo=databricks)](https://credentials.databricks.com/fdcde26c-6207-4d93-80d2-6fe09ab94735#acc.0nT2vGPm)  
 ✅ Officially certified in **Databricks Machine Learning Associate**  
+
+<img width="599" height="460" alt="image" src="https://github.com/user-attachments/assets/8194d0a8-fc7f-4b35-b5c6-957beb11351a" />
+
+
 📅 Passed: **July 2025**  
 🔗 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7350364618994741249/)
 
